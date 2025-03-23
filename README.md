@@ -17,5 +17,3 @@ This repository contains a Jupyter notebook for training a model using QLoRA and
 1. Clone the repository.
 2. Install the required dependencies.
 3. Open the notebook in Jupyter and run the cells.
-
-"""
