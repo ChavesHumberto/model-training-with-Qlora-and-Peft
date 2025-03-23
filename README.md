@@ -4,7 +4,7 @@ This repository contains a Jupyter notebook for training a model using QLoRA and
 
 ## Notebook
 
-- `sddsds.ipynb`: Main notebook for model training.
+- `model-training-with-Qlora-and-Peft.ipynb`: Main notebook for model training.
 
 ## Requirements
 
