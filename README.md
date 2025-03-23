@@ -1,8 +1,3 @@
-# Ensure the notebook is saved in the root directory or a visible folder in the repository.
-# Add a README.md file to the repository to describe the purpose of the notebook.
-# Example README.md content:
-
-"""
 # Model Training with QLoRA and PEFT
 
 This repository contains a Jupyter notebook for training a model using QLoRA and PEFT techniques.
